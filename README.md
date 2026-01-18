@@ -3,7 +3,7 @@ Advanced Regression Assignment
 
 This repository consists of two files. 
 
-An ipynb file, Assignment_Regularization.ipynb, which contains the solved python notebook for the following problem
+An ipynb file, [Assignment_Regularization.ipynb](https://github.com/prasanth23590/Advanced-Regression-Assignment/blob/main/Assignment_Regularization.ipynb), which contains the solved python notebook for the following problem
 
 Assignment Part-I
 
@@ -42,7 +42,7 @@ Please find the dataset link [here](https://ml-course3-upgrad.s3.amazonaws.com/A
 
 [Data Definition](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt)
 
-A pdf file Assignment Regularization Part II.pdf, which contains answers for the following questions
+A pdf file [Assignment Regularization Part II.pdf](https://github.com/prasanth23590/Advanced-Regression-Assignment/blob/main/Assignment%20Regularization%20Part%20II.pdf), which contains answers for the following questions
 
 Assignment Part-II
 
