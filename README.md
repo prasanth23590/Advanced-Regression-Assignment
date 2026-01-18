@@ -1,7 +1,9 @@
 # Advanced-Regression-Assignment
 Advanced Regression Assignment
 
-This repository consists of two files. An ipynb file, which contains the solved python notebook for the following problem
+This repository consists of two files. 
+
+An ipynb file, Assignment_Regularization.ipynb, which contains the solved python notebook for the following problem
 
 Assignment Part-I
 
@@ -40,7 +42,7 @@ Please find the dataset link [here](https://ml-course3-upgrad.s3.amazonaws.com/A
 
 [Data Definition](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt)
 
-The word file contains answers for the following questions
+A pdf file Assignment Regularization Part II.pdf, which contains answers for the following questions
 
 Assignment Part-II
 
